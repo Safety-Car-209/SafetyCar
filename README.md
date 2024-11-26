@@ -22,21 +22,16 @@
  
 ## **목차**
 
-1. 기획 배경 📚
-2. 서비스 소개 🛠️
-   - MAP 좌표 추출
-   - 객체 탐지 및 심정지 환자 판단
-   - 시뮬레이터 경로 생성 및 자율 주행
-   - 강제 출동 서비스
-   - 119 신고 문자 접수 서비스
+1. 프로젝트 개요 📚
+2. 주요 기능 🛠️
 3. 기대 효과 🌟
 4. 설계 🏗️
-   - 시스템 아키텍처
-   - API 명세서
 5. 기술 스택 🛠️
 6. 팀원 소개 👥
 
 </div>
+
+<br/>
 
 <div>
 
@@ -76,12 +71,15 @@
 | **맵 등록**             | - 바닥 모서리 검출<br>                                                                        | - 두 개의 공간 사진, 바닥의 세로 길이와 가로 길이를 입력받아 모서리를 검출            |
 | **맵 등록**          | - 이미지 회전/반전                                                              | - 두 개의 이미지를 하나의 맵처럼 보기 위해 회전하여 바닥을 맞춰줌. openCV의 Image Stretching 사용                                                                                      |
 | **맵 등록**          | - 타일 매칭                                                              | - 두 개의 이미지를 하나의 맵처럼 보기 위해 매칭점을 찾아서 선택함. openCV의 Image Stitching 사용                                                                                     |
-| **문자 알림**          | - 보행자가 쓰러지면 문자로 쓰러짐 문자를 전송                                                              | - CoolSNS를 통해 문자 알림 서비스 구현                                                                                     |
+| **문자 알림**          | - 보행자가 쓰러지면 문자로 쓰러짐 문자를 전송                                                              | - CoolSMS를 통해 문자 알림 서비스 구현                                                                                     |
 | **터틀봇 자율주행**          | - 터틀봇의 현재 위치와 목표 좌표까지 global path와 local path 생성<br> - path tracking 알고리즘을 통해 자율주행<br> - Lidar data를 통해 충돌 시 후진 기능                                                              | - A* 알고리즘을 통한 local path 생성<br> - follow the carrot 알고리즘을 활용한 path tracking 구현                                                                                     |
 | **Localization과 Mapping**          | - Lidar data와 회전 변환을 활용하여 map 데이터 생성<br> - 비선형 데이터를 임의로 생성하여 로봇의 Odometry 발행 및 구독                                                              | - openCV를 활용한 grid map 구현<br> - particle filter로 비선형 data 구현<br> - SLAM                                                                                     |
 | **좌표 데이터 송수신**          | - 터틀봇의 현재 좌표 송신<br> - goal pose data 수신                                                              | - socket.io를 활용한 실시간 데이터 송수신                                                                                     |
 
 <br/>
+
+## 🏗️ 설계
+![image (3)](https://github.com/user-attachments/assets/61552a56-e48a-410b-99a7-e976705e3718)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
