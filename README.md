@@ -29,6 +29,9 @@
 5. 기술 스택 🛠️
 6. 팀원 소개 👥
 
+## **목차**
+[1. 프로젝트 개요](#1-프로젝트-개요)
+
 </div>
 
 <br/>
@@ -78,7 +81,7 @@
 
 <br/>
 
-## 🎞서비스 시연
+## 🎞서비스 소개
 ![아무거나-min (1)](https://github.com/user-attachments/assets/b07ff352-dc21-439e-87ca-9c0d08e51016)
 
 <br/>
@@ -129,6 +132,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+<br/>
 
 ## 👥 팀원 소개
 
