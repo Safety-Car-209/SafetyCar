@@ -1,4 +1,10 @@
 
+ <div align="center">
+
+<img width="300px" src="https://github.com/user-attachments/assets/33d90d25-fe2f-4411-aa58-9e971deacb6e" />
+
+<br>
+
 
 <h2>삼성 청년 SW 아카데미 11기 특화 Safety Car B209</h2>
 
@@ -115,18 +121,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
- <div align="center">
-
-<img width="300px" src="https://github.com/user-attachments/assets/33d90d25-fe2f-4411-aa58-9e971deacb6e" />
-
-<br>
-
- <div align="center">
-
-<img width="300px" src="https://github.com/user-attachments/assets/33d90d25-fe2f-4411-aa58-9e971deacb6e" />
-
-<br>
 
 ## 👥 팀원 소개
 
