@@ -24,11 +24,10 @@
 
 1. 프로젝트 개요 📚
 2. 주요 기능 🛠️
-3. 기대 효과 🌟
+3. 서비스 소개 🎞
 4. 설계 🏗️
 5. 기술 스택 🛠️
-6. 서비스 시연 
-7. 팀원 소개 👥
+6. 팀원 소개 👥
 
 </div>
 
@@ -78,6 +77,12 @@
 | **좌표 데이터 송수신**          | - 터틀봇의 현재 좌표 송신<br> - goal pose data 수신                                                              | - socket.io를 활용한 실시간 데이터 송수신                                                                                     |
 
 <br/>
+
+## 🎞서비스 시연
+![아무거나-min (1)](https://github.com/user-attachments/assets/b07ff352-dc21-439e-87ca-9c0d08e51016)
+
+<br/>
+
 
 ## 🏗️ 설계
 ![image (3)](https://github.com/user-attachments/assets/61552a56-e48a-410b-99a7-e976705e3718)
@@ -134,7 +139,7 @@
     <td align="center"><a href="https://github.com/boeunyoon"><b>임 권</b></a></td>
     <td align="center"><a href="https://github.com/Geunbeom"><b>서근범</b></a></td>
     <td align="center"><a href="https://github.com/ssuinh"><b>홍수인</b></a></td>
-    <td align="center"><a href="https://github.com/"><b>황용주</b></a></td>
+    <td align="center"><a href="https://github.com/hwangyongju1"><b>황용주</b></a></td>
   </tr>
  <tr>
      <td align="center"><a href="https://github.com/shanaid"><img src="https://avatars.githubusercontent.com/shanaid" width="130px;" alt=""></a></td>
@@ -142,7 +147,7 @@
     <td align="center"><a href="https://github.com/Al17OTON"><img src="https://avatars.githubusercontent.com/Al17OTON" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Geunbeom"><img src="https://avatars.githubusercontent.com/Geunbeom" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ssuinh"><img src="https://avatars.githubusercontent.com/ssuinh" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hwangyongju1"><img src="https://avatars.githubusercontent.com/hwangyongju1" width="130px;" alt=""></a></td>
 
   </tr>
   <tr>
@@ -154,15 +159,3 @@
     <td align="center"><b>ROS & SIMULATOR</b></a></td>
   </tr>
 </table>
-
-<br/>
-
-## 🎞서비스 시연
-![아무거나-min (1)](https://github.com/user-attachments/assets/b07ff352-dc21-439e-87ca-9c0d08e51016)
-
-
-
-
-
-
-
