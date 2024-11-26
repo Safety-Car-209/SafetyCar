@@ -164,9 +164,9 @@
     <td align="center"><b>BE & 좌표 추출</b></a></td>
     <td align="center"><b>BE & 영상</b></a></td>
     <td align="center"><b>BE & INFRA</b></a></td>
-    <td align="center"><b>SIMULATOR & ROS & Socket</b></a></td>
+    <td align="center"><b>SIMULATOR & ROS</b></a></td>
     <td align="center"><b>FE & 영상</b></a></td>
-    <td align="center"><b>SIMULATOR & ROS & Socket</b></a></td>
+    <td align="center"><b>SIMULATOR & ROS</b></a></td>
   </tr>
 </table>
 
