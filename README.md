@@ -27,7 +27,8 @@
 3. 기대 효과 🌟
 4. 설계 🏗️
 5. 기술 스택 🛠️
-6. 팀원 소개 👥
+6. 서비스 시연 
+7. 팀원 소개 👥
 
 </div>
 
@@ -148,13 +149,15 @@
     <td align="center"><b>BE & 좌표 추출</b></a></td>
     <td align="center"><b>BE & 영상</b></a></td>
     <td align="center"><b>BE & INFRA</b></a></td>
-    <td align="center"><b>SIMULATOR</b></a></td>
+    <td align="center"><b>ROS & SIMULATOR</b></a></td>
     <td align="center"><b>FE & 영상</b></a></td>
-    <td align="center"><b>SIMULATOR</b></a></td>
+    <td align="center"><b>ROS & SIMULATOR</b></a></td>
   </tr>
 </table>
 
-# 5. 서비스 시연
+<br/>
+
+## 🎞서비스 시연
 ![아무거나-min (1)](https://github.com/user-attachments/assets/b07ff352-dc21-439e-87ca-9c0d08e51016)
 
 
